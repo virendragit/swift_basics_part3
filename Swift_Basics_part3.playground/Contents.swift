@@ -135,6 +135,21 @@ for name in names[...2]{
     print(name)
 }
 
+for name in names [..<2]{
+    print(name)
+}
+
+let range = ...5
+range.contains(7)
+range.contains(4)
+range.contains(-1)
+
+
+//Logical Operators
+
+//!a
+//a && b
+//Logical OR (a || b)
 
 
 
